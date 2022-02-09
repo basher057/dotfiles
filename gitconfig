@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cniehaus@slb.com
+	name = Christoph Niehaus
